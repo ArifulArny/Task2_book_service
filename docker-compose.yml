@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  web:
+    build: .
+    ports:
+      - "8000:80"
+    depends_on:
+      - postgres
+  postgres:
+    image: "postgres:13"
+    environment:
+      POSTGRES_DB: book_service_db
+      POSTGRES_USER: book_service_user
+      POSTGRES_PASSWORD: book_service_password
+

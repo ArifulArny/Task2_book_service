@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b271d623-6612-448b-a8ad-9ca2e6bc5afc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/..//project1/book/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/migrations/0002_category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/migrations/0003_blog_category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/migrations/0004_category_use_count_alter_category_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/permission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book_service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book_service/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book_service/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book_service/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/..//project1/book_service/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YRqZ7Rnv4WFApgnfJVRnz91Cpz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Docker.Docker Image">
+    <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="postgres:13" />
+          <option name="containerName" value="" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.postgres: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="services">
+            <list>
+              <option value="postgres" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.web: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="web" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Docker.docker-compose.yml.postgres: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.web: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b271d623-6612-448b-a8ad-9ca2e6bc5afc" name="Changes" comment="" />
+      <created>1700498793462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700498793462</updated>
+    </task>
+    <servers />
+  </component>
+</project>
